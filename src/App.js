@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
-import { BroserRouter as Router, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Route } from 'react-router-dom';
 import './App.css';
 
 
 import Main from './container/Main';
-import WebtoonHone from './container/WebtoonHone';
+import WebtoonHome from './container/WebtoonHome';
 import Viewer from './container/Viewer';
 
 class App extends Component {
@@ -12,9 +12,9 @@ class App extends Component {
     return(
       <Router>
         <div>
-          <Router exact path="/" component={Main}/>
-          <Router exact path="/webtoon/:webtoonId" component={WebtoonHone}/>
-          <Router exact path="/viewer/:episodeId" component={Viewer}/>
+          <Route exact path="/" component={Main}/>
+          <Route path="/webtoon/:webtoonId" component={WebtoonHome}/>
+          <Route path="/viewer/:episodeId" component={Viewer}/>
         </div>
       </Router>
     )
