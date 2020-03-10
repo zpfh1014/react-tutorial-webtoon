@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-tutorial-webtoon/static/css/main.544bd55e.chunk.css",
+    "main.js": "/react-tutorial-webtoon/static/js/main.93b53559.chunk.js",
+    "main.js.map": "/react-tutorial-webtoon/static/js/main.93b53559.chunk.js.map",
+    "runtime-main.js": "/react-tutorial-webtoon/static/js/runtime-main.05a3d189.js",
+    "runtime-main.js.map": "/react-tutorial-webtoon/static/js/runtime-main.05a3d189.js.map",
+    "static/js/2.f6f05417.chunk.js": "/react-tutorial-webtoon/static/js/2.f6f05417.chunk.js",
+    "static/js/2.f6f05417.chunk.js.map": "/react-tutorial-webtoon/static/js/2.f6f05417.chunk.js.map",
+    "index.html": "/react-tutorial-webtoon/index.html",
+    "precache-manifest.c0715788de09b2001ced5f464b87ac29.js": "/react-tutorial-webtoon/precache-manifest.c0715788de09b2001ced5f464b87ac29.js",
+    "service-worker.js": "/react-tutorial-webtoon/service-worker.js",
+    "static/css/main.544bd55e.chunk.css.map": "/react-tutorial-webtoon/static/css/main.544bd55e.chunk.css.map",
+    "static/js/2.f6f05417.chunk.js.LICENSE.txt": "/react-tutorial-webtoon/static/js/2.f6f05417.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05a3d189.js",
+    "static/js/2.f6f05417.chunk.js",
+    "static/css/main.544bd55e.chunk.css",
+    "static/js/main.93b53559.chunk.js"
+  ]
+}
